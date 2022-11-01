@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://dharmesh:VsAsnkQeLr9PcWtR@cluster0.3tvjb.mongodb.net/?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettocken",
+  "gihubClientId": "cd41f5d2ec4a12504756",
+  "githubSecret": "b98fc6db22f3881277f99b7dfe5250ccb9e28087"
+}
